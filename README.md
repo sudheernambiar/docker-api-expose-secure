@@ -105,7 +105,3 @@ docker -H tcp://172.16.10.65:2376 ps   #will display the docker ps command in th
 
 ## Conclusion
 This simple settings will help us to enable a secure remote execution of commands without worrying an open exposed remote API port of the host. Security served.
-
-
-
-
