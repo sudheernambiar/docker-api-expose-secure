@@ -92,7 +92,7 @@ After this a status will show the port been exposed.
 ```
 systemctl status docker
 ```
-
+<center><img alt="Docker Status" src="Untitled.png"> </img></center>
 By combining the client-cert.pem and ca.pem in the client machine/prtg monitor we will have the client certificate and the key will be client-key.pem. 
 in the client machine at the home directory you have to create .docker named directory. Under this you can keep ca.pem(combined client-cert.pem + ca.pem) and the above mentioned key.
 
